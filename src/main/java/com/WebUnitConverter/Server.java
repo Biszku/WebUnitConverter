@@ -1,6 +1,8 @@
-import Handlers.LengthConversionHandler;
-import Handlers.TemperatureConversionHandler;
-import Handlers.WeightConversionHandler;
+package com.WebUnitConverter;
+
+import com.WebUnitConverter.Handlers.LengthConversionHandler;
+import com.WebUnitConverter.Handlers.TemperatureConversionHandler;
+import com.WebUnitConverter.Handlers.WeightConversionHandler;
 import com.sun.net.httpserver.HttpServer;
 
 import java.io.IOException;

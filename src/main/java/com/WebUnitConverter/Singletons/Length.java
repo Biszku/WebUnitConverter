@@ -1,4 +1,4 @@
-package Singletons;
+package com.WebUnitConverter.Singletons;
 
 public enum Length {
     MILLIMETER(0.001),

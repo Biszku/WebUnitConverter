@@ -1,4 +1,4 @@
-package Singletons;
+package com.WebUnitConverter.Singletons;
 
 public enum Weight {
     MILLIGRAM(0.001),

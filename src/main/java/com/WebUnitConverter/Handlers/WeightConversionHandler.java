@@ -1,8 +1,8 @@
-package Handlers;
+package com.WebUnitConverter.Handlers;
 
-import Singletons.Weight;
-import Website.PageCreator;
-import Website.WeightPage;
+import com.WebUnitConverter.Singletons.Weight;
+import com.WebUnitConverter.Website.PageCreator;
+import com.WebUnitConverter.Website.WeightPage;
 
 public class WeightConversionHandler extends ConversionHandler {
 

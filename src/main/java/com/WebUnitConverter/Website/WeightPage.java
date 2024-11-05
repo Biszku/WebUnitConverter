@@ -1,4 +1,4 @@
-package Website;
+package com.WebUnitConverter.Website;
 
 public class WeightPage extends PageCreator {
 

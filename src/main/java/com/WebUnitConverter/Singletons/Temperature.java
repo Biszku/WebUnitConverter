@@ -1,4 +1,4 @@
-package Singletons;
+package com.WebUnitConverter.Singletons;
 
 public enum Temperature {
     FAHRENHEIT(9.0 / 5.0, 32),

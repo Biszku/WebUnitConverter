@@ -1,4 +1,6 @@
-package Website;
+package com.WebUnitConverter.Website;
+
+import static com.WebUnitConverter.Website.PageStyles.createStyles;
 
 public abstract class PageCreator {
 
@@ -19,7 +21,7 @@ public abstract class PageCreator {
                 "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">" +
                 "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">" +
                 "<title>Unit converter</title>" +
-                PageStyles.createStyles() +
+                createStyles() +
                 "</head>";
     }
 

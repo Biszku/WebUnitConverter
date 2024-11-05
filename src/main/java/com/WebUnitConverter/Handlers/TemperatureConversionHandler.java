@@ -1,8 +1,8 @@
-package Handlers;
+package com.WebUnitConverter.Handlers;
 
-import Singletons.Temperature;
-import Website.PageCreator;
-import Website.TemperaturePage;
+import com.WebUnitConverter.Singletons.Temperature;
+import com.WebUnitConverter.Website.PageCreator;
+import com.WebUnitConverter.Website.TemperaturePage;
 
 public class TemperatureConversionHandler extends ConversionHandler {
 

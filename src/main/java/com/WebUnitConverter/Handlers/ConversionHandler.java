@@ -1,6 +1,6 @@
-package Handlers;
+package com.WebUnitConverter.Handlers;
 
-import Website.PageCreator;
+import com.WebUnitConverter.Website.PageCreator;
 import com.sun.net.httpserver.HttpExchange;
 
 import java.io.IOException;

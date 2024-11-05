@@ -1,8 +1,8 @@
-package Handlers;
+package com.WebUnitConverter.Handlers;
 
-import Singletons.Length;
-import Website.LengthPage;
-import Website.PageCreator;
+import com.WebUnitConverter.Singletons.Length;
+import com.WebUnitConverter.Website.LengthPage;
+import com.WebUnitConverter.Website.PageCreator;
 
 public class LengthConversionHandler extends ConversionHandler {
 
